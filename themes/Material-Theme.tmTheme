@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Mattia Astorino</string>
+	<string>soojade</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>name</key>
@@ -20,7 +20,7 @@
 			<key>settings</key>
 			<dict>
 				<key>activeGuide</key>
-				<string>#64E843E0</string>
+				<string>#8AFA3FE0</string>
 				<key>background</key>
 				<string>#1F211F</string>
 				<key>caret</key>
@@ -30,11 +30,11 @@
 				<key>foreground</key>
 				<string>#C2EDD9</string>
 				<key>guide</key>
-				<string>#1C291ABD</string>
+				<string>#2EB851BD</string>
 				<key>gutterForeground</key>
 				<string>#25DBB7</string>
 				<key>invisibles</key>
-				<string>#65737e</string>
+				<string>#65737E</string>
 				<key>lineHighlight</key>
 				<string>#00000066</string>
 				<key>popupCss</key>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#718534</string>
+				<string>#8BA344</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -70,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#89B8F5</string>
+				<string>#5DA2FC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,15 +138,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword, Storage</string>
-			<key>scope</key>
-			<string>storage.type, keyword.control</string>
-			<key>settings</key>
-			<dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Operator, Misc</string>
 			<key>scope</key>
 			<string>keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution</string>
@@ -164,7 +155,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FC893CE8</string>
+				<string>#FC822AE8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -300,7 +291,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>italic </string>
 				<key>foreground</key>
 				<string>#5495F7</string>
 			</dict>
@@ -658,19 +649,6 @@
 				<string>strike</string>
 				<key>foreground</key>
 				<string></string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Markdown - Blockquote</string>
-			<key>scope</key>
-			<string>markup.quote punctuation.definition.blockquote.markdown</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#65737e</string>
-				<key>foreground</key>
-				<string>#65737e</string>
 			</dict>
 		</dict>
 		<dict>
