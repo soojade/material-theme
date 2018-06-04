@@ -1,6 +1,6 @@
 {
-    "name": "material-theme",
-    "displayName": "material-theme",
+    "name": "myself-theme",
+    "displayName": "myself-theme",
     "description": "自用主题",
     "version": "0.0.1",
     "publisher": "soojade",
@@ -13,14 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "material",
+                "label": "myself",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Material-Theme.tmTheme"
-            },
-            {
-                "label": "deepin-green",
-                "uiTheme": "vs-dark",
-                "path": "./themes/deep-green Theme.tmTheme"
+                "path": "./themes/myself-Theme.tmTheme"
             }
         ]
     }

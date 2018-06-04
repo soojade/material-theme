@@ -11,7 +11,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>name</key>
-	<string>Material-Theme</string>
+	<string>myself-Theme</string>
 	<key>semanticClass</key>
 	<string>theme.dark.material_theme</string>
 	<key>settings</key>
@@ -58,8 +58,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#8BA344</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
